@@ -1,0 +1,9 @@
+=========================================
+User Guidline
+=========================================
+
+*** "dbcm" sql file is inside the DB folder. At first import it on you server and run the project.
+
+** Creat your own account base on your interest by clicking Register button.
+
+** Then upload, read or download your content... HAPPY Learning
