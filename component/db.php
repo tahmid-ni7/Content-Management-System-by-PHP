@@ -1,5 +1,5 @@
 <?php
-$cn = mysqli_connect("localhost", "root", "", "cscnewu");
+$cn = mysqli_connect("localhost", "root", "", "dbcm");
 
 function ms($value)
 {
