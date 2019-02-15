@@ -2,7 +2,9 @@
 User Guidline
 =========================================
 
-*** "dbcm" sql file is inside the DB folder. At first import it on you server and run the project.
+*** Atfirst create a new database named as "dbcm" at your XAMPP.
+
+*** "dbcm" sql file is inside the DB folder. First import it on you server and run the project.
 
 ** Creat your own account base on your interest by clicking Register button.
 
