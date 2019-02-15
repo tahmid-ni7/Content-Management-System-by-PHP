@@ -4,8 +4,10 @@ User Guidline
 
 *** Atfirst create a new database named as "dbcm" at your XAMPP.
 
-*** "dbcm" sql file is inside the DB folder. First import it on you server and run the project.
+*** "dbcm" sql file is inside the DB folder. First import it on your XAMPP and run the project.
 
 ** Creat your own account base on your interest by clicking Register button.
 
-** Then upload, read or download your content... HAPPY Learning
+** After login you can see the all project features.
+
+** Then upload, read or download your content... HAPPY Learning!
