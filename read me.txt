@@ -10,4 +10,8 @@ User Guidline
 
 ** After login you can see the all project features.
 
+*** For admin login:
+Email: admin@system.com
+Password: admin&123
+
 ** Then upload, read or download your content... HAPPY Learning!
